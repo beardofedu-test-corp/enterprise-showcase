@@ -1,17 +1,12 @@
 ---
-title: C.R.E.A.M.
-description: Cheese Rules Everything Around Me
+title: InnerSource
+description: A collection of handy InnerSource related repositories!
 repositories:
-- aaa-table-of-contents/TOC
-- actions-clubhouse/checkout
-- brent-and-sebass-funtime/hi-sebass
-- constructocats/interconstruct
-- dchomh-demo/bookstore-demo
-- dchomh-demo/helloworld-node
-- deans-demos/azure_pipelines
+- chocrates-test-org/innersource-portal
+- beardofedu-test-corp/enterprise-showcase
 ---
 
-# All of them!!! 
+# A bunch of InnerSource Repos!!!!!
 
-We love them all 
+These are the best example repos ever! 
 
